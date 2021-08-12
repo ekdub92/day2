@@ -1,4 +1,5 @@
 4
 다시 master로 head를 바꿔서 commit!
 다만 master로 head를 바꾸면 exp branch에서 작업한 exp.txt는 없어짐.
-master가 exp를 병합하면 exp.txt를 다시 가져올 수 있음.
+master가 exp를 병합하면 exp.txt를 다시 가져올 수 있음. 
+(exp에서 merge into current branch)
