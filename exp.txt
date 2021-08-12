@@ -1,3 +1,5 @@
 1
 checkout branch를 하면 head가 master 대신 새로운 head가 생긴다.
 헤드가 exp이므로 해당 커밋은 master 대신 exp가 따라간다.
+쓸모를 다한 exp branch는 delete할 수 있다.
+사실 master branch에 exp branch를 병합하던, 그 역으로 하던 결과는 같다.
