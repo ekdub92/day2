@@ -1,5 +1,10 @@
 123
+<<<<<<< HEAD
 L2 : asd
 qwe
+=======
+asd
+R3 : qwe
+>>>>>>> 4ba41a5f431148fa3396af34830e393b7e0235e9
 zxc
  
